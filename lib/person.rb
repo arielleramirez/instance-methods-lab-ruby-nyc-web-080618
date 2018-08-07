@@ -6,9 +6,9 @@ class Person
 end
 end 
 
-def talk
+def walk
   puts "The Person is walking"
 end 
 
-abby = Person.new 
-
+ada = Person.new 
+ada.walk

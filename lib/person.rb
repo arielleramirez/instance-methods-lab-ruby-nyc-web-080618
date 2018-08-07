@@ -10,4 +10,5 @@ def talk
   puts "The Person is walking"
 end 
 
-abby.new 
+abby = Person.new 
+

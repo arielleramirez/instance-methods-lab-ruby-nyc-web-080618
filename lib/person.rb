@@ -9,4 +9,3 @@ end
 def talk
   puts "The Person is walking"
 end 
-end
